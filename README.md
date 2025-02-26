@@ -1,1 +1,1 @@
-Quantum simulation of dynamics in the SU(2) lattice gauge theory in 1+1D in the heavy quark limit using scalable cocurrent VQE(Variational Quantum Eigensolver).
+Quantum simulation of dynamics in the SU(2) lattice gauge theory in 1+1D in the heavy quark limit using Scalable Concurrent VQE (Variational Quantum Eigensolver) under the guidance of Dr. Anthony Ciavarella.
